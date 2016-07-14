@@ -25,4 +25,8 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency "sqlite3"
   s.add_development_dependency "rspec-rails"
+  s.add_development_dependency "teaspoon-jasmine"
+  s.add_development_dependency 'phantomjs'
+  s.add_development_dependency 'coffee-script'
+
 end

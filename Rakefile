@@ -20,7 +20,8 @@ load 'rails/tasks/engine.rake'
 
 load 'rails/tasks/statistics.rake'
 
+desc "Run the javascript specs"
+task :teaspoon => "app:teaspoon"
 
 
 Bundler::GemHelper.install_tasks
-
