@@ -1,6 +1,6 @@
 = EngineTeaspoonExample
 
-Teaspoon using example inside an engine.
+Teaspoon example inside an engine.
 
 = How to reproduce
 
