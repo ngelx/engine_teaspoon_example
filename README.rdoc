@@ -1,3 +1,8 @@
 = EngineTeaspoonExample
 
-This project rocks and uses MIT-LICENSE.
+Teaspoon using example inside an engine.
+
+== How was build
+
+* $>  rails plugin new engine_teaspoon_example --mountable --dummy-path=spec/dummy --skip-test-unit
+* $> 
