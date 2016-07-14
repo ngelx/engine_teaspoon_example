@@ -2,7 +2,9 @@
 
 Teaspoon using example inside an engine.
 
-== How was build
+= How to reproduce
 
-* $>  rails plugin new engine_teaspoon_example --mountable --dummy-path=spec/dummy --skip-test-unit
-* $> 
+* $> git clone https://github.com/ngelx/engine_teaspoon_example
+* $> cd engine_teaspoon_example
+* $> bundle
+* $> rake teaspoon
