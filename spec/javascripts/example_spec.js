@@ -1,6 +1,6 @@
 
-describe("My great feature", function() {
-  it("Bang", () => {
-    expect(true).toBe(false);
+describe("My great feature must Bang!", function() {
+  it("Bang", function() {
+    expect(failer()).toBe(true);
   });
 });

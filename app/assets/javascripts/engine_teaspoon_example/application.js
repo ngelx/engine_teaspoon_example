@@ -15,3 +15,7 @@
 function hi(){
   console.log("yeay!");
 }
+
+function failer(){
+  return false;
+}
