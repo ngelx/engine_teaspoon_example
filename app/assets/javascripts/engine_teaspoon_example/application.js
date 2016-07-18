@@ -10,7 +10,9 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require hello
+
+//= require engine_teaspoon_example/main
+
 
 function failer(){
   return false;
