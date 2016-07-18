@@ -10,11 +10,7 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require_tree .
-
-function hi(){
-  console.log("yeay!");
-}
+//= require hello
 
 function failer(){
   return false;

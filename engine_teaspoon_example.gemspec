@@ -22,11 +22,13 @@ Gem::Specification.new do |s|
   s.test_files = Dir["spec/**/*"]
 
   s.add_dependency "rails", "~> 4.2.6"
+  s.add_dependency "browserify-rails"
 
   s.add_development_dependency "sqlite3"
   s.add_development_dependency "rspec-rails"
   s.add_development_dependency "teaspoon-jasmine"
   s.add_development_dependency 'phantomjs'
   s.add_development_dependency 'coffee-script'
+
 
 end
